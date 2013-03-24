@@ -1,0 +1,15 @@
+<app>
+  <id>hellfire-commentaries-app</id>
+  <name>Hellfire Commentaries</name>
+  <version>1.01</version>
+  <description>Hellfire Commentaries on a Boxee Box? I'm in!</description>
+  <thumb>http://hellfirecomms.com/sites/default/files/hellfirecomms_podcast_rss_logo.jpg</thumb>
+  <repository>http://dir.boxee.tv/apps</repository>
+  <media>video</media>
+  <copyright>NTom64</copyright>
+  <email>nickles.travis@gmail.com</email>
+  <type>skin</type>
+  <startWindow>14000</startWindow>
+  <platform>dlink.dsm380,intel.ce4100</platform>
+  <minversion>1.5.0</minversion>
+</app>
